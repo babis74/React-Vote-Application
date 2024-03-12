@@ -5,4 +5,6 @@
 
 Απλή εφαρμογή ψηφοφορίας με React | Simple Vote application using React
 
-npm install after uloading files to your favourite IDE
+Ό χρήστης βαθμολογεί με Like /Dislike το αγαπημενο του σνακ , και αυτη η επιλογή υπολογίζεται ως συνολο 
+
+ps: install depedencies by using $npm install after uloading files to your favourite IDE
